@@ -1,0 +1,1094 @@
+Heroes,Calle 76,5
+Heroes,Calle 72,2
+Heroes,Marly,1
+Heroes,Calle 45,8
+Heroes,AV 39,10
+Heroes,Profamilia,4
+Heroes,Calle 26,9
+Heroes,Calle 19,2
+Heroes,AV Jimenez,10
+Heroes,Tercer Milenio,2
+Calle 76,Calle 72,10
+Calle 76,Marly,8
+Calle 76,Calle 45,9
+Calle 76,AV 39,4
+Calle 76,Profamilia,2
+Calle 76,Calle 26,10
+Calle 76,Calle 19,7
+Calle 76,AV Jimenez,3
+Calle 76,Tercer Milenio,8
+Calle 72,Marly,3
+Calle 72,Calle 45,2
+Calle 72,AV 39,4
+Calle 72,Profamilia,5
+Calle 72,Calle 26,1
+Calle 72,Calle 19,5
+Calle 72,AV Jimenez,6
+Calle 72,Tercer Milenio,3
+Marly,Calle 45,1
+Marly,AV 39,3
+Marly,Profamilia,5
+Marly,Calle 26,7
+Marly,Calle 19,2
+Marly,AV Jimenez,8
+Marly,Tercer Milenio,9
+Calle 45,AV 39,2
+Calle 45,Profamilia,6
+Calle 45,Calle 26,9
+Calle 45,Calle 19,7
+Calle 45,AV Jimenez,5
+Calle 45,Tercer Milenio,2
+AV 39,Profamilia,6
+AV 39,Calle 26,7
+AV 39,Calle 19,4
+AV 39,AV Jimenez,2
+AV 39,Tercer Milenio,2
+Profamilia,Calle 26,6
+Profamilia,Calle 19,6
+Profamilia,AV Jimenez,7
+Profamilia,Tercer Milenio,9
+Calle 26,Calle 19,2
+Calle 26,AV Jimenez,2
+Calle 26,Tercer Milenio,4
+Calle 19,AV Jimenez,2
+Calle 19,Tercer Milenio,5
+AV Jimenez,Tercer Milenio,4
+Portal de la 80,Quirigua,2
+Portal de la 80,Carrera 90,4
+Portal de la 80,Avenida Cali,2
+Portal de la 80,Granja Carrera 77,1
+Portal de la 80,Minuto de Dios,10
+Portal de la 80,Boyaca,6
+Portal de la 80,Ferias,10
+Portal de la 80,Avenida 68,9
+Portal de la 80,Carrera 53,1
+Portal de la 80,Carrera 47,1
+Portal de la 80,Escuela Militar,8
+Portal de la 80,Polo,1
+Portal de la 80,Heroes,2
+Quirigua,Carrera 90,4
+Quirigua,Avenida Cali,10
+Quirigua,Granja Carrera 77,6
+Quirigua,Minuto de Dios,5
+Quirigua,Boyaca,6
+Quirigua,Ferias,8
+Quirigua,Avenida 68,8
+Quirigua,Carrera 53,8
+Quirigua,Carrera 47,6
+Quirigua,Escuela Militar,2
+Quirigua,Polo,10
+Quirigua,Heroes,3
+Carrera 90,Avenida Cali,3
+Carrera 90,Granja Carrera 77,8
+Carrera 90,Minuto de Dios,1
+Carrera 90,Boyaca,2
+Carrera 90,Ferias,4
+Carrera 90,Avenida 68,1
+Carrera 90,Carrera 53,7
+Carrera 90,Carrera 47,8
+Carrera 90,Escuela Militar,3
+Carrera 90,Polo,4
+Carrera 90,Heroes,3
+Avenida Cali,Granja Carrera 77,2
+Avenida Cali,Minuto de Dios,6
+Avenida Cali,Boyaca,2
+Avenida Cali,Ferias,5
+Avenida Cali,Avenida 68,7
+Avenida Cali,Carrera 53,4
+Avenida Cali,Carrera 47,9
+Avenida Cali,Escuela Militar,9
+Avenida Cali,Polo,6
+Avenida Cali,Heroes,10
+Granja Carrera 77,Minuto de Dios,6
+Granja Carrera 77,Boyaca,5
+Granja Carrera 77,Ferias,7
+Granja Carrera 77,Avenida 68,2
+Granja Carrera 77,Carrera 53,6
+Granja Carrera 77,Carrera 47,5
+Granja Carrera 77,Escuela Militar,10
+Granja Carrera 77,Polo,2
+Granja Carrera 77,Heroes,10
+Minuto de Dios,Boyaca,8
+Minuto de Dios,Ferias,8
+Minuto de Dios,Avenida 68,5
+Minuto de Dios,Carrera 53,5
+Minuto de Dios,Carrera 47,2
+Minuto de Dios,Escuela Militar,3
+Minuto de Dios,Polo,2
+Minuto de Dios,Heroes,10
+Boyaca,Ferias,8
+Boyaca,Avenida 68,5
+Boyaca,Carrera 53,1
+Boyaca,Carrera 47,7
+Boyaca,Escuela Militar,2
+Boyaca,Polo,6
+Boyaca,Heroes,5
+Ferias,Avenida 68,5
+Ferias,Carrera 53,7
+Ferias,Carrera 47,5
+Ferias,Escuela Militar,6
+Ferias,Polo,2
+Ferias,Heroes,7
+Avenida 68,Carrera 53,9
+Avenida 68,Carrera 47,5
+Avenida 68,Escuela Militar,2
+Avenida 68,Polo,4
+Avenida 68,Heroes,7
+Carrera 53,Carrera 47,1
+Carrera 53,Escuela Militar,5
+Carrera 53,Polo,1
+Carrera 53,Heroes,8
+Carrera 47,Escuela Militar,5
+Carrera 47,Polo,3
+Carrera 47,Heroes,8
+Escuela Militar,Polo,8
+Escuela Militar,Heroes,5
+Polo,Heroes,1
+Portal de Suba,Suba TV 91,5
+Portal de Suba,21 Angeles,3
+Portal de Suba,Gratamira,9
+Portal de Suba,Suba AV Boyaca,5
+Portal de Suba,Niza CL 127,8
+Portal de Suba,Humedal Cordoba,10
+Portal de Suba,Shaio,4
+Portal de Suba,Puentelargo,2
+Portal de Suba,Suba CL 100,6
+Portal de Suba,Suba CL 95,6
+Portal de Suba,Rionegro,4
+Portal de Suba,San Martin,2
+Portal de Suba,Escuela Militar,6
+Suba TV 91,21 Angeles,3
+Suba TV 91,Gratamira,2
+Suba TV 91,Suba AV Boyaca,10
+Suba TV 91,Niza CL 127,9
+Suba TV 91,Humedal Cordoba,8
+Suba TV 91,Shaio,5
+Suba TV 91,Puentelargo,5
+Suba TV 91,Suba CL 100,5
+Suba TV 91,Suba CL 95,1
+Suba TV 91,Rionegro,8
+Suba TV 91,San Martin,2
+Suba TV 91,Escuela Militar,8
+21 Angeles,Gratamira,6
+21 Angeles,Suba AV Boyaca,10
+21 Angeles,Niza CL 127,4
+21 Angeles,Humedal Cordoba,4
+21 Angeles,Shaio,6
+21 Angeles,Puentelargo,2
+21 Angeles,Suba CL 100,5
+21 Angeles,Suba CL 95,7
+21 Angeles,Rionegro,9
+21 Angeles,San Martin,4
+21 Angeles,Escuela Militar,9
+Gratamira,Suba AV Boyaca,2
+Gratamira,Niza CL 127,2
+Gratamira,Humedal Cordoba,4
+Gratamira,Shaio,9
+Gratamira,Puentelargo,9
+Gratamira,Suba CL 100,7
+Gratamira,Suba CL 95,3
+Gratamira,Rionegro,8
+Gratamira,San Martin,3
+Gratamira,Escuela Militar,3
+Suba AV Boyaca,Niza CL 127,2
+Suba AV Boyaca,Humedal Cordoba,7
+Suba AV Boyaca,Shaio,5
+Suba AV Boyaca,Puentelargo,9
+Suba AV Boyaca,Suba CL 100,7
+Suba AV Boyaca,Suba CL 95,4
+Suba AV Boyaca,Rionegro,2
+Suba AV Boyaca,San Martin,3
+Suba AV Boyaca,Escuela Militar,7
+Niza CL 127,Humedal Cordoba,3
+Niza CL 127,Shaio,5
+Niza CL 127,Puentelargo,1
+Niza CL 127,Suba CL 100,7
+Niza CL 127,Suba CL 95,7
+Niza CL 127,Rionegro,9
+Niza CL 127,San Martin,4
+Niza CL 127,Escuela Militar,1
+Humedal Cordoba,Shaio,6
+Humedal Cordoba,Puentelargo,8
+Humedal Cordoba,Suba CL 100,7
+Humedal Cordoba,Suba CL 95,4
+Humedal Cordoba,Rionegro,1
+Humedal Cordoba,San Martin,5
+Humedal Cordoba,Escuela Militar,8
+Shaio,Puentelargo,3
+Shaio,Suba CL 100,2
+Shaio,Suba CL 95,5
+Shaio,Rionegro,5
+Shaio,San Martin,2
+Shaio,Escuela Militar,8
+Puentelargo,Suba CL 100,6
+Puentelargo,Suba CL 95,8
+Puentelargo,Rionegro,7
+Puentelargo,San Martin,7
+Puentelargo,Escuela Militar,6
+Suba CL 100,Suba CL 95,7
+Suba CL 100,Rionegro,10
+Suba CL 100,San Martin,7
+Suba CL 100,Escuela Militar,2
+Suba CL 95,Rionegro,7
+Suba CL 95,San Martin,2
+Suba CL 95,Escuela Militar,2
+Rionegro,San Martin,8
+Rionegro,Escuela Militar,9
+San Martin,Escuela Militar,8
+Portal de la 80,Quirigua,2
+Portal de la 80,Carrera 90,4
+Portal de la 80,Avenida Cali,9
+Portal de la 80,Granja Carrera 77,10
+Portal de la 80,Minuto de Dios,2
+Portal de la 80,Boyaca,8
+Portal de la 80,Ferias,4
+Portal de la 80,Avenida 68,4
+Portal de la 80,Carrera 53,2
+Portal de la 80,Carrera 47,2
+Portal de la 80,Escuela Militar,3
+Portal de la 80,Polo,6
+Portal de la 80,Heroes,7
+Quirigua,Carrera 90,10
+Quirigua,Avenida Cali,10
+Quirigua,Granja Carrera 77,1
+Quirigua,Minuto de Dios,10
+Quirigua,Boyaca,4
+Quirigua,Ferias,6
+Quirigua,Avenida 68,9
+Quirigua,Carrera 53,8
+Quirigua,Carrera 47,9
+Quirigua,Escuela Militar,2
+Quirigua,Polo,2
+Quirigua,Heroes,5
+Carrera 90,Avenida Cali,2
+Carrera 90,Granja Carrera 77,10
+Carrera 90,Minuto de Dios,1
+Carrera 90,Boyaca,9
+Carrera 90,Ferias,4
+Carrera 90,Avenida 68,9
+Carrera 90,Carrera 53,4
+Carrera 90,Carrera 47,8
+Carrera 90,Escuela Militar,10
+Carrera 90,Polo,10
+Carrera 90,Heroes,3
+Avenida Cali,Granja Carrera 77,2
+Avenida Cali,Minuto de Dios,10
+Avenida Cali,Boyaca,6
+Avenida Cali,Ferias,7
+Avenida Cali,Avenida 68,5
+Avenida Cali,Carrera 53,8
+Avenida Cali,Carrera 47,5
+Avenida Cali,Escuela Militar,9
+Avenida Cali,Polo,7
+Avenida Cali,Heroes,9
+Granja Carrera 77,Minuto de Dios,6
+Granja Carrera 77,Boyaca,6
+Granja Carrera 77,Ferias,7
+Granja Carrera 77,Avenida 68,3
+Granja Carrera 77,Carrera 53,4
+Granja Carrera 77,Carrera 47,6
+Granja Carrera 77,Escuela Militar,9
+Granja Carrera 77,Polo,4
+Granja Carrera 77,Heroes,3
+Minuto de Dios,Boyaca,3
+Minuto de Dios,Ferias,7
+Minuto de Dios,Avenida 68,1
+Minuto de Dios,Carrera 53,2
+Minuto de Dios,Carrera 47,8
+Minuto de Dios,Escuela Militar,2
+Minuto de Dios,Polo,4
+Minuto de Dios,Heroes,7
+Boyaca,Ferias,7
+Boyaca,Avenida 68,9
+Boyaca,Carrera 53,7
+Boyaca,Carrera 47,8
+Boyaca,Escuela Militar,2
+Boyaca,Polo,3
+Boyaca,Heroes,2
+Ferias,Avenida 68,7
+Ferias,Carrera 53,5
+Ferias,Carrera 47,7
+Ferias,Escuela Militar,4
+Ferias,Polo,6
+Ferias,Heroes,7
+Avenida 68,Carrera 53,9
+Avenida 68,Carrera 47,3
+Avenida 68,Escuela Militar,5
+Avenida 68,Polo,1
+Avenida 68,Heroes,3
+Carrera 53,Carrera 47,7
+Carrera 53,Escuela Militar,9
+Carrera 53,Polo,2
+Carrera 53,Heroes,4
+Carrera 47,Escuela Militar,5
+Carrera 47,Polo,9
+Carrera 47,Heroes,6
+Escuela Militar,Polo,7
+Escuela Militar,Heroes,4
+Polo,Heroes,4
+Calle 100,La Castellana,6
+Calle 100,NQS Calle 75,7
+Calle 100,AV Chile,4
+Calle 100,Simon Bolivar,9
+Calle 100,Coliceo,7
+Calle 100,Campin,7
+Calle 100,U Nacional,10
+Calle 100,AV El Dorado,7
+Calle 100,CAD,3
+Calle 100,Paloquemao,1
+Calle 100,Ricaurte,8
+Calle 100,Comuneros,7
+Calle 100,Guatoque,8
+Calle 100,San Jose,3
+Calle 100,Hospital,3
+Calle 100,Bicentenario,3
+La Castellana,NQS Calle 75,7
+La Castellana,AV Chile,10
+La Castellana,Simon Bolivar,5
+La Castellana,Coliceo,4
+La Castellana,Campin,4
+La Castellana,U Nacional,5
+La Castellana,AV El Dorado,6
+La Castellana,CAD,1
+La Castellana,Paloquemao,4
+La Castellana,Ricaurte,10
+La Castellana,Comuneros,5
+La Castellana,Guatoque,4
+La Castellana,San Jose,9
+La Castellana,Hospital,8
+La Castellana,Bicentenario,5
+NQS Calle 75,AV Chile,10
+NQS Calle 75,Simon Bolivar,1
+NQS Calle 75,Coliceo,10
+NQS Calle 75,Campin,10
+NQS Calle 75,U Nacional,8
+NQS Calle 75,AV El Dorado,4
+NQS Calle 75,CAD,7
+NQS Calle 75,Paloquemao,6
+NQS Calle 75,Ricaurte,9
+NQS Calle 75,Comuneros,10
+NQS Calle 75,Guatoque,7
+NQS Calle 75,San Jose,9
+NQS Calle 75,Hospital,7
+NQS Calle 75,Bicentenario,10
+AV Chile,Simon Bolivar,4
+AV Chile,Coliceo,2
+AV Chile,Campin,2
+AV Chile,U Nacional,2
+AV Chile,AV El Dorado,10
+AV Chile,CAD,9
+AV Chile,Paloquemao,7
+AV Chile,Ricaurte,3
+AV Chile,Comuneros,10
+AV Chile,Guatoque,4
+AV Chile,San Jose,9
+AV Chile,Hospital,9
+AV Chile,Bicentenario,9
+Simon Bolivar,Coliceo,2
+Simon Bolivar,Campin,8
+Simon Bolivar,U Nacional,6
+Simon Bolivar,AV El Dorado,10
+Simon Bolivar,CAD,8
+Simon Bolivar,Paloquemao,7
+Simon Bolivar,Ricaurte,1
+Simon Bolivar,Comuneros,2
+Simon Bolivar,Guatoque,9
+Simon Bolivar,San Jose,4
+Simon Bolivar,Hospital,6
+Simon Bolivar,Bicentenario,3
+Coliceo,Campin,1
+Coliceo,U Nacional,2
+Coliceo,AV El Dorado,8
+Coliceo,CAD,6
+Coliceo,Paloquemao,10
+Coliceo,Ricaurte,5
+Coliceo,Comuneros,7
+Coliceo,Guatoque,7
+Coliceo,San Jose,1
+Coliceo,Hospital,3
+Coliceo,Bicentenario,1
+Campin,U Nacional,6
+Campin,AV El Dorado,5
+Campin,CAD,2
+Campin,Paloquemao,4
+Campin,Ricaurte,3
+Campin,Comuneros,9
+Campin,Guatoque,2
+Campin,San Jose,4
+Campin,Hospital,2
+Campin,Bicentenario,8
+U Nacional,AV El Dorado,10
+U Nacional,CAD,1
+U Nacional,Paloquemao,6
+U Nacional,Ricaurte,4
+U Nacional,Comuneros,5
+U Nacional,Guatoque,9
+U Nacional,San Jose,9
+U Nacional,Hospital,9
+U Nacional,Bicentenario,3
+AV El Dorado,CAD,3
+AV El Dorado,Paloquemao,10
+AV El Dorado,Ricaurte,3
+AV El Dorado,Comuneros,3
+AV El Dorado,Guatoque,6
+AV El Dorado,San Jose,7
+AV El Dorado,Hospital,7
+AV El Dorado,Bicentenario,7
+CAD,Paloquemao,5
+CAD,Ricaurte,9
+CAD,Comuneros,10
+CAD,Guatoque,10
+CAD,San Jose,8
+CAD,Hospital,7
+CAD,Bicentenario,5
+Paloquemao,Ricaurte,3
+Paloquemao,Comuneros,10
+Paloquemao,Guatoque,4
+Paloquemao,San Jose,3
+Paloquemao,Hospital,3
+Paloquemao,Bicentenario,8
+Ricaurte,Comuneros,7
+Ricaurte,Guatoque,10
+Ricaurte,San Jose,2
+Ricaurte,Hospital,4
+Ricaurte,Bicentenario,5
+Comuneros,Guatoque,10
+Comuneros,San Jose,7
+Comuneros,Hospital,10
+Comuneros,Bicentenario,3
+Guatoque,San Jose,2
+Guatoque,Hospital,5
+Guatoque,Bicentenario,5
+San Jose,Hospital,1
+San Jose,Bicentenario,9
+Hospital,Bicentenario,2
+Portal Americas,Patio Bonito,1
+Portal Americas,Biblioteca Tintal,7
+Portal Americas,Transversal 86,9
+Portal Americas,Banderas,4
+Portal Americas,Mandalay,2
+Portal Americas,Mundo Aventura,1
+Portal Americas,Marsella,2
+Portal Americas,Pradera,8
+Portal Americas,Americas KR 53A,6
+Portal Americas,Puente Aranda,2
+Portal Americas,Carrera 43,4
+Portal Americas,Zona Industrial,4
+Portal Americas,CDS Carrera 32,4
+Portal Americas,Ricaurte,9
+Portal Americas,San Falcon,10
+Portal Americas,De La Sabana,10
+Portal Americas,AV Jimenez,4
+Patio Bonito,Biblioteca Tintal,6
+Patio Bonito,Transversal 86,8
+Patio Bonito,Banderas,3
+Patio Bonito,Mandalay,1
+Patio Bonito,Mundo Aventura,5
+Patio Bonito,Marsella,10
+Patio Bonito,Pradera,5
+Patio Bonito,Americas KR 53A,9
+Patio Bonito,Puente Aranda,3
+Patio Bonito,Carrera 43,3
+Patio Bonito,Zona Industrial,3
+Patio Bonito,CDS Carrera 32,3
+Patio Bonito,Ricaurte,2
+Patio Bonito,San Falcon,5
+Patio Bonito,De La Sabana,8
+Patio Bonito,AV Jimenez,6
+Biblioteca Tintal,Transversal 86,6
+Biblioteca Tintal,Banderas,2
+Biblioteca Tintal,Mandalay,7
+Biblioteca Tintal,Mundo Aventura,3
+Biblioteca Tintal,Marsella,9
+Biblioteca Tintal,Pradera,6
+Biblioteca Tintal,Americas KR 53A,4
+Biblioteca Tintal,Puente Aranda,10
+Biblioteca Tintal,Carrera 43,6
+Biblioteca Tintal,Zona Industrial,7
+Biblioteca Tintal,CDS Carrera 32,9
+Biblioteca Tintal,Ricaurte,4
+Biblioteca Tintal,San Falcon,7
+Biblioteca Tintal,De La Sabana,8
+Biblioteca Tintal,AV Jimenez,2
+Transversal 86,Banderas,6
+Transversal 86,Mandalay,1
+Transversal 86,Mundo Aventura,3
+Transversal 86,Marsella,1
+Transversal 86,Pradera,10
+Transversal 86,Americas KR 53A,10
+Transversal 86,Puente Aranda,1
+Transversal 86,Carrera 43,5
+Transversal 86,Zona Industrial,5
+Transversal 86,CDS Carrera 32,8
+Transversal 86,Ricaurte,4
+Transversal 86,San Falcon,4
+Transversal 86,De La Sabana,2
+Transversal 86,AV Jimenez,5
+Banderas,Mandalay,1
+Banderas,Mundo Aventura,2
+Banderas,Marsella,5
+Banderas,Pradera,2
+Banderas,Americas KR 53A,9
+Banderas,Puente Aranda,5
+Banderas,Carrera 43,3
+Banderas,Zona Industrial,4
+Banderas,CDS Carrera 32,10
+Banderas,Ricaurte,7
+Banderas,San Falcon,1
+Banderas,De La Sabana,1
+Banderas,AV Jimenez,5
+Mandalay,Mundo Aventura,3
+Mandalay,Marsella,7
+Mandalay,Pradera,2
+Mandalay,Americas KR 53A,8
+Mandalay,Puente Aranda,7
+Mandalay,Carrera 43,4
+Mandalay,Zona Industrial,4
+Mandalay,CDS Carrera 32,10
+Mandalay,Ricaurte,8
+Mandalay,San Falcon,5
+Mandalay,De La Sabana,1
+Mandalay,AV Jimenez,5
+Mundo Aventura,Marsella,8
+Mundo Aventura,Pradera,5
+Mundo Aventura,Americas KR 53A,6
+Mundo Aventura,Puente Aranda,5
+Mundo Aventura,Carrera 43,10
+Mundo Aventura,Zona Industrial,8
+Mundo Aventura,CDS Carrera 32,9
+Mundo Aventura,Ricaurte,10
+Mundo Aventura,San Falcon,7
+Mundo Aventura,De La Sabana,1
+Mundo Aventura,AV Jimenez,8
+Marsella,Pradera,3
+Marsella,Americas KR 53A,2
+Marsella,Puente Aranda,7
+Marsella,Carrera 43,5
+Marsella,Zona Industrial,3
+Marsella,CDS Carrera 32,5
+Marsella,Ricaurte,10
+Marsella,San Falcon,9
+Marsella,De La Sabana,1
+Marsella,AV Jimenez,3
+Pradera,Americas KR 53A,9
+Pradera,Puente Aranda,9
+Pradera,Carrera 43,3
+Pradera,Zona Industrial,4
+Pradera,CDS Carrera 32,9
+Pradera,Ricaurte,2
+Pradera,San Falcon,6
+Pradera,De La Sabana,4
+Pradera,AV Jimenez,1
+Americas KR 53A,Puente Aranda,4
+Americas KR 53A,Carrera 43,10
+Americas KR 53A,Zona Industrial,4
+Americas KR 53A,CDS Carrera 32,7
+Americas KR 53A,Ricaurte,2
+Americas KR 53A,San Falcon,7
+Americas KR 53A,De La Sabana,2
+Americas KR 53A,AV Jimenez,9
+Puente Aranda,Carrera 43,8
+Puente Aranda,Zona Industrial,8
+Puente Aranda,CDS Carrera 32,4
+Puente Aranda,Ricaurte,4
+Puente Aranda,San Falcon,8
+Puente Aranda,De La Sabana,3
+Puente Aranda,AV Jimenez,6
+Carrera 43,Zona Industrial,3
+Carrera 43,CDS Carrera 32,9
+Carrera 43,Ricaurte,7
+Carrera 43,San Falcon,10
+Carrera 43,De La Sabana,8
+Carrera 43,AV Jimenez,10
+Zona Industrial,CDS Carrera 32,3
+Zona Industrial,Ricaurte,4
+Zona Industrial,San Falcon,8
+Zona Industrial,De La Sabana,8
+Zona Industrial,AV Jimenez,1
+CDS Carrera 32,Ricaurte,10
+CDS Carrera 32,San Falcon,3
+CDS Carrera 32,De La Sabana,10
+CDS Carrera 32,AV Jimenez,7
+Ricaurte,San Falcon,6
+Ricaurte,De La Sabana,8
+Ricaurte,AV Jimenez,7
+San Falcon,De La Sabana,1
+San Falcon,AV Jimenez,2
+De La Sabana,AV Jimenez,10
+Portal Americas,Patio Bonito,9
+Portal Americas,Biblioteca Tintal,6
+Portal Americas,Transversal 86,4
+Portal Americas,Banderas,10
+Portal Americas,Mandalay,9
+Portal Americas,Mundo Aventura,10
+Portal Americas,Marsella,5
+Portal Americas,Pradera,6
+Portal Americas,Americas KR 53A,1
+Portal Americas,Puente Aranda,3
+Portal Americas,Carrera 43,2
+Portal Americas,Zona Industrial,10
+Portal Americas,CDS Carrera 32,8
+Portal Americas,Ricaurte,10
+Portal Americas,San Falcon,9
+Portal Americas,De La Sabana,2
+Portal Americas,AV Jimenez,3
+Patio Bonito,Biblioteca Tintal,3
+Patio Bonito,Transversal 86,1
+Patio Bonito,Banderas,3
+Patio Bonito,Mandalay,7
+Patio Bonito,Mundo Aventura,8
+Patio Bonito,Marsella,1
+Patio Bonito,Pradera,5
+Patio Bonito,Americas KR 53A,9
+Patio Bonito,Puente Aranda,3
+Patio Bonito,Carrera 43,4
+Patio Bonito,Zona Industrial,4
+Patio Bonito,CDS Carrera 32,9
+Patio Bonito,Ricaurte,5
+Patio Bonito,San Falcon,9
+Patio Bonito,De La Sabana,2
+Patio Bonito,AV Jimenez,6
+Biblioteca Tintal,Transversal 86,10
+Biblioteca Tintal,Banderas,6
+Biblioteca Tintal,Mandalay,8
+Biblioteca Tintal,Mundo Aventura,6
+Biblioteca Tintal,Marsella,8
+Biblioteca Tintal,Pradera,7
+Biblioteca Tintal,Americas KR 53A,2
+Biblioteca Tintal,Puente Aranda,8
+Biblioteca Tintal,Carrera 43,1
+Biblioteca Tintal,Zona Industrial,9
+Biblioteca Tintal,CDS Carrera 32,1
+Biblioteca Tintal,Ricaurte,2
+Biblioteca Tintal,San Falcon,4
+Biblioteca Tintal,De La Sabana,7
+Biblioteca Tintal,AV Jimenez,8
+Transversal 86,Banderas,1
+Transversal 86,Mandalay,9
+Transversal 86,Mundo Aventura,3
+Transversal 86,Marsella,1
+Transversal 86,Pradera,7
+Transversal 86,Americas KR 53A,10
+Transversal 86,Puente Aranda,4
+Transversal 86,Carrera 43,1
+Transversal 86,Zona Industrial,10
+Transversal 86,CDS Carrera 32,8
+Transversal 86,Ricaurte,6
+Transversal 86,San Falcon,2
+Transversal 86,De La Sabana,7
+Transversal 86,AV Jimenez,9
+Banderas,Mandalay,1
+Banderas,Mundo Aventura,7
+Banderas,Marsella,3
+Banderas,Pradera,8
+Banderas,Americas KR 53A,10
+Banderas,Puente Aranda,10
+Banderas,Carrera 43,1
+Banderas,Zona Industrial,2
+Banderas,CDS Carrera 32,4
+Banderas,Ricaurte,6
+Banderas,San Falcon,7
+Banderas,De La Sabana,1
+Banderas,AV Jimenez,10
+Mandalay,Mundo Aventura,4
+Mandalay,Marsella,3
+Mandalay,Pradera,9
+Mandalay,Americas KR 53A,9
+Mandalay,Puente Aranda,9
+Mandalay,Carrera 43,10
+Mandalay,Zona Industrial,8
+Mandalay,CDS Carrera 32,6
+Mandalay,Ricaurte,8
+Mandalay,San Falcon,1
+Mandalay,De La Sabana,3
+Mandalay,AV Jimenez,5
+Mundo Aventura,Marsella,10
+Mundo Aventura,Pradera,2
+Mundo Aventura,Americas KR 53A,10
+Mundo Aventura,Puente Aranda,3
+Mundo Aventura,Carrera 43,5
+Mundo Aventura,Zona Industrial,1
+Mundo Aventura,CDS Carrera 32,8
+Mundo Aventura,Ricaurte,9
+Mundo Aventura,San Falcon,10
+Mundo Aventura,De La Sabana,9
+Mundo Aventura,AV Jimenez,5
+Marsella,Pradera,7
+Marsella,Americas KR 53A,7
+Marsella,Puente Aranda,3
+Marsella,Carrera 43,2
+Marsella,Zona Industrial,8
+Marsella,CDS Carrera 32,10
+Marsella,Ricaurte,8
+Marsella,San Falcon,2
+Marsella,De La Sabana,10
+Marsella,AV Jimenez,4
+Pradera,Americas KR 53A,4
+Pradera,Puente Aranda,8
+Pradera,Carrera 43,9
+Pradera,Zona Industrial,7
+Pradera,CDS Carrera 32,6
+Pradera,Ricaurte,6
+Pradera,San Falcon,3
+Pradera,De La Sabana,9
+Pradera,AV Jimenez,1
+Americas KR 53A,Puente Aranda,10
+Americas KR 53A,Carrera 43,9
+Americas KR 53A,Zona Industrial,7
+Americas KR 53A,CDS Carrera 32,4
+Americas KR 53A,Ricaurte,4
+Americas KR 53A,San Falcon,8
+Americas KR 53A,De La Sabana,4
+Americas KR 53A,AV Jimenez,5
+Puente Aranda,Carrera 43,10
+Puente Aranda,Zona Industrial,9
+Puente Aranda,CDS Carrera 32,7
+Puente Aranda,Ricaurte,1
+Puente Aranda,San Falcon,7
+Puente Aranda,De La Sabana,9
+Puente Aranda,AV Jimenez,3
+Carrera 43,Zona Industrial,4
+Carrera 43,CDS Carrera 32,1
+Carrera 43,Ricaurte,8
+Carrera 43,San Falcon,8
+Carrera 43,De La Sabana,10
+Carrera 43,AV Jimenez,10
+Zona Industrial,CDS Carrera 32,9
+Zona Industrial,Ricaurte,2
+Zona Industrial,San Falcon,10
+Zona Industrial,De La Sabana,7
+Zona Industrial,AV Jimenez,9
+CDS Carrera 32,Ricaurte,10
+CDS Carrera 32,San Falcon,1
+CDS Carrera 32,De La Sabana,9
+CDS Carrera 32,AV Jimenez,6
+Ricaurte,San Falcon,8
+Ricaurte,De La Sabana,2
+Ricaurte,AV Jimenez,2
+San Falcon,De La Sabana,6
+San Falcon,AV Jimenez,7
+De La Sabana,AV Jimenez,3
+Comuneros,Santa Isabel,1
+Comuneros,Sena,7
+Comuneros,NQS CL 30,10
+Comuneros,NQS CL 38A,3
+Comuneros,General Santander,8
+Comuneros,Alqueria,8
+Comuneros,Venecia,4
+Comuneros,Sevillana,10
+Comuneros,Madelena,3
+Comuneros,Perdomo,9
+Comuneros,Portal del Sur,7
+Comuneros,Bosa,9
+Comuneros,La Despensa,4
+Comuneros,Leon XIII,5
+Comuneros,Terreros,9
+Comuneros,San Mateo,2
+Santa Isabel,Sena,3
+Santa Isabel,NQS CL 30,9
+Santa Isabel,NQS CL 38A,1
+Santa Isabel,General Santander,7
+Santa Isabel,Alqueria,9
+Santa Isabel,Venecia,1
+Santa Isabel,Sevillana,9
+Santa Isabel,Madelena,6
+Santa Isabel,Perdomo,9
+Santa Isabel,Portal del Sur,6
+Santa Isabel,Bosa,1
+Santa Isabel,La Despensa,2
+Santa Isabel,Leon XIII,8
+Santa Isabel,Terreros,4
+Santa Isabel,San Mateo,4
+Sena,NQS CL 30,8
+Sena,NQS CL 38A,3
+Sena,General Santander,4
+Sena,Alqueria,1
+Sena,Venecia,8
+Sena,Sevillana,10
+Sena,Madelena,10
+Sena,Perdomo,5
+Sena,Portal del Sur,9
+Sena,Bosa,6
+Sena,La Despensa,1
+Sena,Leon XIII,7
+Sena,Terreros,5
+Sena,San Mateo,6
+NQS CL 30,NQS CL 38A,8
+NQS CL 30,General Santander,2
+NQS CL 30,Alqueria,8
+NQS CL 30,Venecia,5
+NQS CL 30,Sevillana,9
+NQS CL 30,Madelena,8
+NQS CL 30,Perdomo,1
+NQS CL 30,Portal del Sur,9
+NQS CL 30,Bosa,4
+NQS CL 30,La Despensa,8
+NQS CL 30,Leon XIII,8
+NQS CL 30,Terreros,5
+NQS CL 30,San Mateo,8
+NQS CL 38A,General Santander,5
+NQS CL 38A,Alqueria,8
+NQS CL 38A,Venecia,7
+NQS CL 38A,Sevillana,1
+NQS CL 38A,Madelena,7
+NQS CL 38A,Perdomo,9
+NQS CL 38A,Portal del Sur,7
+NQS CL 38A,Bosa,3
+NQS CL 38A,La Despensa,7
+NQS CL 38A,Leon XIII,3
+NQS CL 38A,Terreros,9
+NQS CL 38A,San Mateo,7
+General Santander,Alqueria,9
+General Santander,Venecia,5
+General Santander,Sevillana,4
+General Santander,Madelena,4
+General Santander,Perdomo,9
+General Santander,Portal del Sur,6
+General Santander,Bosa,6
+General Santander,La Despensa,10
+General Santander,Leon XIII,2
+General Santander,Terreros,3
+General Santander,San Mateo,1
+Alqueria,Venecia,5
+Alqueria,Sevillana,1
+Alqueria,Madelena,9
+Alqueria,Perdomo,5
+Alqueria,Portal del Sur,3
+Alqueria,Bosa,4
+Alqueria,La Despensa,8
+Alqueria,Leon XIII,3
+Alqueria,Terreros,9
+Alqueria,San Mateo,6
+Venecia,Sevillana,3
+Venecia,Madelena,8
+Venecia,Perdomo,10
+Venecia,Portal del Sur,5
+Venecia,Bosa,1
+Venecia,La Despensa,2
+Venecia,Leon XIII,1
+Venecia,Terreros,7
+Venecia,San Mateo,3
+Sevillana,Madelena,10
+Sevillana,Perdomo,5
+Sevillana,Portal del Sur,9
+Sevillana,Bosa,7
+Sevillana,La Despensa,3
+Sevillana,Leon XIII,5
+Sevillana,Terreros,9
+Sevillana,San Mateo,2
+Madelena,Perdomo,5
+Madelena,Portal del Sur,3
+Madelena,Bosa,6
+Madelena,La Despensa,7
+Madelena,Leon XIII,4
+Madelena,Terreros,9
+Madelena,San Mateo,6
+Perdomo,Portal del Sur,4
+Perdomo,Bosa,1
+Perdomo,La Despensa,10
+Perdomo,Leon XIII,6
+Perdomo,Terreros,5
+Perdomo,San Mateo,7
+Portal del Sur,Bosa,3
+Portal del Sur,La Despensa,4
+Portal del Sur,Leon XIII,4
+Portal del Sur,Terreros,10
+Portal del Sur,San Mateo,5
+Bosa,La Despensa,6
+Bosa,Leon XIII,5
+Bosa,Terreros,6
+Bosa,San Mateo,8
+La Despensa,Leon XIII,4
+La Despensa,Terreros,9
+La Despensa,San Mateo,2
+Leon XIII,Terreros,10
+Leon XIII,San Mateo,6
+Terreros,San Mateo,2
+Tercer Milenio,Hospital,5
+Tercer Milenio,Hortua,3
+Tercer Milenio,Nariño,1
+Tercer Milenio,Fucha,7
+Tercer Milenio,Restrepo,1
+Tercer Milenio,Olaya,10
+Tercer Milenio,Quiroga,3
+Tercer Milenio,Calle 40,7
+Tercer Milenio,Santa Lucia,10
+Tercer Milenio,Socorro,5
+Tercer Milenio,Consuelo,6
+Tercer Milenio,Molinos,4
+Tercer Milenio,Portal de Usme,7
+Hospital,Hortua,10
+Hospital,Nariño,6
+Hospital,Fucha,8
+Hospital,Restrepo,10
+Hospital,Olaya,2
+Hospital,Quiroga,2
+Hospital,Calle 40,1
+Hospital,Santa Lucia,4
+Hospital,Socorro,1
+Hospital,Consuelo,1
+Hospital,Molinos,6
+Hospital,Portal de Usme,6
+Hortua,Nariño,9
+Hortua,Fucha,4
+Hortua,Restrepo,3
+Hortua,Olaya,10
+Hortua,Quiroga,10
+Hortua,Calle 40,6
+Hortua,Santa Lucia,4
+Hortua,Socorro,7
+Hortua,Consuelo,2
+Hortua,Molinos,9
+Hortua,Portal de Usme,6
+Nariño,Fucha,7
+Nariño,Restrepo,8
+Nariño,Olaya,5
+Nariño,Quiroga,10
+Nariño,Calle 40,6
+Nariño,Santa Lucia,2
+Nariño,Socorro,2
+Nariño,Consuelo,2
+Nariño,Molinos,10
+Nariño,Portal de Usme,5
+Fucha,Restrepo,8
+Fucha,Olaya,1
+Fucha,Quiroga,7
+Fucha,Calle 40,3
+Fucha,Santa Lucia,4
+Fucha,Socorro,7
+Fucha,Consuelo,10
+Fucha,Molinos,8
+Fucha,Portal de Usme,10
+Restrepo,Olaya,2
+Restrepo,Quiroga,4
+Restrepo,Calle 40,10
+Restrepo,Santa Lucia,10
+Restrepo,Socorro,1
+Restrepo,Consuelo,3
+Restrepo,Molinos,2
+Restrepo,Portal de Usme,10
+Olaya,Quiroga,1
+Olaya,Calle 40,10
+Olaya,Santa Lucia,9
+Olaya,Socorro,8
+Olaya,Consuelo,9
+Olaya,Molinos,7
+Olaya,Portal de Usme,2
+Quiroga,Calle 40,4
+Quiroga,Santa Lucia,1
+Quiroga,Socorro,1
+Quiroga,Consuelo,2
+Quiroga,Molinos,2
+Quiroga,Portal de Usme,6
+Calle 40,Santa Lucia,5
+Calle 40,Socorro,4
+Calle 40,Consuelo,4
+Calle 40,Molinos,8
+Calle 40,Portal de Usme,10
+Santa Lucia,Socorro,4
+Santa Lucia,Consuelo,6
+Santa Lucia,Molinos,2
+Santa Lucia,Portal de Usme,3
+Socorro,Consuelo,3
+Socorro,Molinos,5
+Socorro,Portal de Usme,7
+Consuelo,Molinos,5
+Consuelo,Portal de Usme,1
+Molinos,Portal de Usme,9
+Univerdiades,Las Aguas,9
+Univerdiades,Museo del Oro,3
+Univerdiades,AV jimenez,1
+Las Aguas,Museo del Oro,1
+Las Aguas,AV jimenez,10
+Museo del Oro,AV jimenez,9
+Portal El Dorado,Modelia,1
+Portal El Dorado,Normandia,2
+Portal El Dorado,AV Rojas,9
+Portal El Dorado,El Tiempo,9
+Portal El Dorado,Salitre,6
+Portal El Dorado,CAN,6
+Portal El Dorado,Gobernacion,4
+Portal El Dorado,Quinta Paredes,3
+Portal El Dorado,Corferias,5
+Portal El Dorado,Ciudad Universitaria,5
+Portal El Dorado,Plaza de la Democracia,2
+Portal El Dorado,Centro Memoria,8
+Portal El Dorado,Universidades,8
+Modelia,Normandia,4
+Modelia,AV Rojas,7
+Modelia,El Tiempo,1
+Modelia,Salitre,4
+Modelia,CAN,5
+Modelia,Gobernacion,9
+Modelia,Quinta Paredes,2
+Modelia,Corferias,8
+Modelia,Ciudad Universitaria,2
+Modelia,Plaza de la Democracia,10
+Modelia,Centro Memoria,3
+Modelia,Universidades,6
+Normandia,AV Rojas,9
+Normandia,El Tiempo,1
+Normandia,Salitre,7
+Normandia,CAN,3
+Normandia,Gobernacion,9
+Normandia,Quinta Paredes,5
+Normandia,Corferias,9
+Normandia,Ciudad Universitaria,2
+Normandia,Plaza de la Democracia,9
+Normandia,Centro Memoria,7
+Normandia,Universidades,7
+AV Rojas,El Tiempo,9
+AV Rojas,Salitre,3
+AV Rojas,CAN,7
+AV Rojas,Gobernacion,4
+AV Rojas,Quinta Paredes,4
+AV Rojas,Corferias,4
+AV Rojas,Ciudad Universitaria,2
+AV Rojas,Plaza de la Democracia,7
+AV Rojas,Centro Memoria,1
+AV Rojas,Universidades,1
+El Tiempo,Salitre,1
+El Tiempo,CAN,4
+El Tiempo,Gobernacion,8
+El Tiempo,Quinta Paredes,4
+El Tiempo,Corferias,5
+El Tiempo,Ciudad Universitaria,7
+El Tiempo,Plaza de la Democracia,1
+El Tiempo,Centro Memoria,8
+El Tiempo,Universidades,8
+Salitre,CAN,3
+Salitre,Gobernacion,5
+Salitre,Quinta Paredes,2
+Salitre,Corferias,1
+Salitre,Ciudad Universitaria,9
+Salitre,Plaza de la Democracia,3
+Salitre,Centro Memoria,1
+Salitre,Universidades,1
+CAN,Gobernacion,8
+CAN,Quinta Paredes,6
+CAN,Corferias,3
+CAN,Ciudad Universitaria,4
+CAN,Plaza de la Democracia,1
+CAN,Centro Memoria,9
+CAN,Universidades,9
+Gobernacion,Quinta Paredes,8
+Gobernacion,Corferias,8
+Gobernacion,Ciudad Universitaria,7
+Gobernacion,Plaza de la Democracia,6
+Gobernacion,Centro Memoria,10
+Gobernacion,Universidades,3
+Quinta Paredes,Corferias,10
+Quinta Paredes,Ciudad Universitaria,6
+Quinta Paredes,Plaza de la Democracia,1
+Quinta Paredes,Centro Memoria,6
+Quinta Paredes,Universidades,2
+Corferias,Ciudad Universitaria,4
+Corferias,Plaza de la Democracia,2
+Corferias,Centro Memoria,3
+Corferias,Universidades,7
+Ciudad Universitaria,Plaza de la Democracia,3
+Ciudad Universitaria,Centro Memoria,6
+Ciudad Universitaria,Universidades,6
+Plaza de la Democracia,Centro Memoria,6
+Plaza de la Democracia,Universidades,1
+Centro Memoria,Universidades,8
